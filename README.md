@@ -1,10 +1,14 @@
 ### Hi! 👋 I'm Ali Shoddiqien.
 
-- 👀 I’m interested in Web Development and cloud computing
-- 🌱 I’m currently learning about php with laravel framework and javascript
-- 📫 You can reach me by email ali.shoddiqien@gmail.com
+* 👀 I’m interested in Web Development and cloud computing
+* 🌱 I’m am a fullstack developer with tech stack javascript, php and typescript
+* 🌱 Backend development based on laravel and express js
+* 🌱 Frontend development based on React JS and Next JS
+* 🌱 Mobile development based on React native
+* 🌱 Able to use SQL (MySQL/MariaDB and MSSQL) and NoSQL (Mongodb) databases
+* 📫 You can reach me by email ali.shoddiqien@gmail.com
 
-An independent Software Engineer who loves to create and share projects about web! I've enjoyed PHP and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web! I've enjoyed PHP, Javascript and make it the main language in creating a project.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>

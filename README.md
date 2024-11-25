@@ -8,7 +8,7 @@
 * 🌱 Able to use SQL (MySQL/MariaDB and MSSQL) and NoSQL (Mongodb) databases
 * 📫 You can reach me by email ali.shoddiqien@gmail.com
 
-An independent Software Engineer who loves to create and share projects about web! I've enjoyed PHP, Javascript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web! I've enjoyed PHP, Javascript, Typescript and make it the main language in creating a project.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>

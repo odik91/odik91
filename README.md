@@ -5,7 +5,7 @@
 * 🌱 Backend development based on laravel and express js
 * 🌱 Frontend development based on React JS and Next JS
 * 🌱 Mobile development based on React native
-* 🌱 Able to use SQL (MySQL/MariaDB and MSSQL) and NoSQL (Mongodb) databases
+* 🌱 Able to use SQL (MySQL/MariaDB, MSSQL, and PostgreSQL) and NoSQL (Mongodb) databases
 * 📫 You can reach me by email ali.shoddiqien@gmail.com
 
 An independent Software Engineer who loves to create and share projects about web! I've enjoyed PHP, Javascript, Typescript and make it the main language in creating a project.

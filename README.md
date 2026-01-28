@@ -16,6 +16,7 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://img.icons8.com/fluent/1200/node-js.jpg" /></a>
   <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
+  <a href="#"><img align="left" alt="Express" title="Express" width="21px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" /></a>
   <a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" /></a>
   <a href="#"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" /></a>
   <br>

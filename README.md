@@ -11,6 +11,10 @@
 An independent Software Engineer who loves to create and share projects about web! I've enjoyed PHP, Javascript, Typescript and make it the main language in creating a project.
 
 ### Tech Stack
+  <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" /></a>
+  <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" /></a>
+  <a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://cdn3d.iconscout.com/3d/free/preview/free-tailwind-3d-icon-png-download-7577995.png?f=webp&h=700" /></a>
+  <a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://camo.githubusercontent.com/fe1e9d8cbdd20505a54428b4123e6fda9cecaa50c05ec15e239b9738e1f19320/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" /></a>
   <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -22,6 +26,7 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" /></a>
   <a href="#"><img align="left" alt="MSSQL" title="MSSQL" width="21px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" /></a>
   <a href="#"><img align="left" alt="PostgresSQL" title="PostgresSQL" width="21px" src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" /></a>
+  <a href="#"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmongodb_original_wordmark_logo_icon_146425.png&id=146425&pack_or_individual=pack" /></a>
   <br>
   <br>
   

@@ -19,6 +19,9 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="Express" title="Express" width="21px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" /></a>
   <a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="21px" src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" /></a>
   <a href="#"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" /></a>
+  <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" /></a>
+  <a href="#"><img align="left" alt="MSSQL" title="MSSQL" width="21px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" /></a>
+  <a href="#"><img align="left" alt="PostgresSQL" title="PostgresSQL" width="21px" src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" /></a>
   <br>
   <br>
   

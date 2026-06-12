@@ -27,7 +27,7 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" /></a>
   <a href="#"><img align="left" alt="MSSQL" title="MSSQL" width="21px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" /></a>
   <a href="#"><img align="left" alt="PostgresSQL" title="PostgresSQL" width="21px" src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" /></a>
-  <a href="#"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmongodb_original_wordmark_logo_icon_146425.png&id=146425&pack_or_individual=pack" /></a>
+  <a href="#"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" /></a>
   <br><br>
 
 ### Env

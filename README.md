@@ -23,6 +23,7 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
   <a href="#"><img align="left" alt="Express" title="Express" width="21px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" /></a>
   <a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="21px" src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" /></a>
+  <a href="#"><img align="left" alt="Electron" title="Electron" width="21px" src="https://images.seeklogo.com/logo-png/46/2/electron-logo-png_seeklogo-468387.png" /></a>
   <a href="#"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" /></a>
   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" /></a>
   <a href="#"><img align="left" alt="MSSQL" title="MSSQL" width="21px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" /></a>

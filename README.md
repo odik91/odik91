@@ -19,8 +19,8 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://img.icons8.com/fluent/1200/node-js.jpg" /></a>
   <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
+  <a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://img.icons8.com/fluent/1200/node-js.jpg" /></a>
   <a href="#"><img align="left" alt="Express" title="Express" width="21px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" /></a>
   <a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="21px" src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" /></a>
   <a href="#"><img align="left" alt="Electron" title="Electron" width="21px" src="https://images.seeklogo.com/logo-png/46/2/electron-logo-png_seeklogo-468387.png" /></a>
